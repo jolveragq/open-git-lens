@@ -1,0 +1,63 @@
+.gitignore
+  s_b943fabc693f33::t_6a40a3d8ecc4f5 1-4
+.vscodeignore
+  s_b943fabc693f33::t_2e64738df62c52 1-8
+CHANGELOG.md
+  s_b943fabc693f33::t_369c15a621cf17 1-14
+LICENSE
+  s_b943fabc693f33::t_03838b08e2b759 1-21
+README.md
+  s_b943fabc693f33::t_278fe19d2a4f98 1-52
+media/graph.css
+  s_b943fabc693f33::t_ed5a325e9ebf94 1-104
+media/graph.js
+  s_b943fabc693f33::t_98ebca7faf1241 1-966
+package.json
+  s_b943fabc693f33::t_bb0d86c6e5395a 1-735
+resources/icon.svg
+  s_b943fabc693f33::t_82c6b20b921d72 1
+src/actions.js
+  s_b943fabc693f33::t_12bcb6d6d069b8 1-131
+src/annotations.js
+  s_b943fabc693f33::t_f0fd7b12c7ee4a 1-131
+src/codelens.js
+  s_b943fabc693f33::t_1d3c822d148db9 1-127
+src/compare.js
+  s_b943fabc693f33::t_fc1b67baed593a 1-221
+src/extension.js
+  s_b943fabc693f33::t_beb220bb681d4f 1-172
+src/git.js
+  s_b943fabc693f33::t_0f1b37abc95790 1-381
+src/gitGraph.js
+  s_b943fabc693f33::t_de12a1f38cb101 1-280
+src/graph.js
+  s_b943fabc693f33::t_af37370a4fcd49 1-342
+src/graphLayout.js
+  s_b943fabc693f33::t_1d3ce68e7433cc 1-76
+src/history.js
+  s_b943fabc693f33::t_ad167489a9532a 1-116
+src/repo.js
+  s_b943fabc693f33::t_8155aa25605b9d 1-57
+src/revisions.js
+  s_b943fabc693f33::t_278e1ab2716b95 1-104
+src/time.js
+  s_b943fabc693f33::t_17420ee13ed37c 1-24
+src/views.js
+  s_b943fabc693f33::t_c7edf10f496572 1-268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e04d526472919d26347f7bc7b80cfa7275684731",
+  "prompts": {},
+  "sessions": {
+    "s_b943fabc693f33": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee3c77a6fffeJACMklHzjAuP6e",
+        "model": "unknown"
+      },
+      "human_author": "Jolver Andre Gil Quevedo <96247447+jolveragq@users.noreply.github.com>"
+    }
+  }
+}
